@@ -9,8 +9,11 @@
   },
   "dependencies": {
     "@quasar/extras": "^1.13.6",
+    "axios": "^0.27.2",
+    "esbuild-windows-64": "^0.14.38",
     "quasar": "^2.6.6",
-    "vue": "^3.2.25"
+    "vue": "^3.2.25",
+    "vue-axios": "^3.4.1"
   },
   "devDependencies": {
     "@quasar/vite-plugin": "^1.0.9",
