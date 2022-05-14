@@ -10,7 +10,6 @@
   "dependencies": {
     "@quasar/extras": "^1.13.6",
     "axios": "^0.27.2",
-    "esbuild-windows-64": "^0.14.39",
     "js-cookie": "^3.0.1",
     "quasar": "^2.6.6",
     "vue": "^3.2.25",
