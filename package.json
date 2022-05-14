@@ -10,13 +10,19 @@
   "dependencies": {
     "@quasar/extras": "^1.13.6",
     "axios": "^0.27.2",
+    "esbuild-windows-64": "^0.14.39",
+    "js-cookie": "^3.0.1",
     "quasar": "^2.6.6",
     "vue": "^3.2.25",
-    "vue-axios": "^3.4.1"
+    "vue-axios": "^3.4.1",
+    "vue-router": "^4.0.15",
+    "vuex": "^4.0.2"
   },
   "devDependencies": {
     "@quasar/vite-plugin": "^1.0.9",
     "@vitejs/plugin-vue": "^2.3.1",
+    "less": "^4.1.2",
+    "less-loader": "^10.2.0",
     "sass": "1.32.0",
     "vite": "^2.9.7"
   }
